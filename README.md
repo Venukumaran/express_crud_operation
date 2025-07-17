@@ -18,5 +18,5 @@ Express.js
 
 MongoDB (with Mongoose)
 
-Postman (for API testing)
+Postman / Thunder Client(for API testing)
 
